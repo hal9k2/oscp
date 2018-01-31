@@ -1,3 +1,5 @@
+### Sometimes script is not working as was written in windows (line endings): 
+sed -i -e 's/\r$//' script.sh
 
 ### Simple Web Servers
 
